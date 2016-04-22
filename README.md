@@ -1,0 +1,2 @@
+# testSOK
+Test na obrascima
